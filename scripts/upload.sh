@@ -68,7 +68,7 @@ echo -e \
 
 TG_TEXT=$(< tg.html)
 
-telegram_message "$TG_TEXT"
+#telegram_message "$TG_TEXT"
 
 echo " "
 
